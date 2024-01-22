@@ -31,4 +31,8 @@ The points listed here are the most recent highlights of my career. For a detail
 
 I am committed to furthering my own education and meeting exciting people who can teach me a great deal. I am open to new contacts and projects. My aim is to be at the forefront of developing new technologies and innovative projects, continuously expanding my knowledge and skills.
 
+## 🙏 Thank You
+
+Thank you for taking the time to learn about my journey! A special thanks to my aunt, who introduced me to programming with the book "HTML for Kids." This early inspiration was a pivotal moment in my career, and I am forever grateful for her encouragement and support in my early steps into the world of technology.
+
 [![Reach Me on LinkedIn](https://img.shields.io/badge/Reach%20me%20on-LinkedIn-blue)](https://www.linkedin.com/in/fabianjocks/)
