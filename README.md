@@ -9,7 +9,7 @@
 <hr>
 
 <ul>
-  <li>🚀 Leading tech and the data team at <a href="https://www.viadukt.de/" target="_blank">viadukt</a>, driving modernization in PropTech.</li>
+  <li>🚀 Leading tech and data intelligence at <a href="https://www.viadukt.de/" target="_blank">viadukt</a>, driving modernization in PropTech.</li>
   <li>💡 Passionate about exploring new ideas and pushing boundaries.</li>
   <li>🤝 Always learning, always sharing.</li>
 </ul>
