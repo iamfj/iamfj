@@ -21,6 +21,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabianjocks/" target="_blank">
-    <img src="https://img.shields.io/badge/Reach%20me%20on-LinkedIn-blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/dotiamfj" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/dotiamfj?style=social" alt="Twitter">
   </a>
 </p>
