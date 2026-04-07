@@ -11,11 +11,11 @@
   <tr>
     <td align="center" width="400">
       <br>
-      <a href="https://github.com/czottmann/linearis"><strong>linearis</strong></a>
+      <a href="https://github.com/linearis-oss/linearis"><strong>linearis</strong></a>
       <br><br>
       <sub>Maintainer of the first agent-centric CLI for <a href="https://linear.app">Linear</a>.<br>Token-optimized interfaces designed for AI agents.</sub>
       <br><br>
-      <a href="https://github.com/czottmann/linearis"><img src="https://img.shields.io/github/stars/czottmann/linearis?style=flat&color=black" alt="Stars"></a>
+      <a href="https://github.com/linearis-oss/linearis"><img src="https://img.shields.io/github/stars/linearis-oss/linearis?style=flat&color=black" alt="Stars"></a>
       <a href="https://www.npmjs.com/package/linearis"><img src="https://img.shields.io/npm/v/linearis?style=flat&color=black" alt="npm"></a>
       <br><br>
     </td>
